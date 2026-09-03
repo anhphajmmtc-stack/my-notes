@@ -8,6 +8,10 @@ updated: 2026-08-23
 
 ![[Bear-VN/zz_Attachments/Noi-Bear-Noi-nau-cham-SUBE001.png]]
 
+**Content Pillar:** [Xem trên Lark](https://subevietnam.sg.larksuite.com/wiki/HYFcwpn5xiVVWrkB8zol8U87gO1?sheet=412f23)
+
+**Kịch bản Combo (SUBE001 + CH-5H02D24):** [Xem trên Lark](https://subevietnam.sg.larksuite.com/wiki/HYFcwpn5xiVVWrkB8zol8U87gO1?sheet=zutL72)
+
 **Đối tượng KH**
 - Chân dung: 20-35 tuổi (người trẻ, độc thân hoặc gia đình nhỏ), Nữ (chủ yếu), một phần nam (những người sống một mình, quan tâm đến nấu ăn), thu nhập Trung bình (5-10 triệu VNĐ/tháng).
 - Động cơ mua: Muốn nấu ăn nhanh, tiết kiệm không gian, phù hợp với lối sống tối giản.

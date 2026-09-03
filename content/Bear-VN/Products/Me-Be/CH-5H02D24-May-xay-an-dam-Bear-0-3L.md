@@ -8,6 +8,8 @@ updated: 2026-09-03
 
 ![[Bear-VN/zz_Attachments/May-Bear-May-xay-an-dam-CH-5H02D24.png]]
 
+**Kịch bản Combo (SUBE001 + CH-5H02D24):** [Xem trên Lark](https://subevietnam.sg.larksuite.com/wiki/HYFcwpn5xiVVWrkB8zol8U87gO1?sheet=zutL72)
+
 **Đối tượng KH**
 - Chân dung: Các mẹ có con nhỏ trong giai đoạn ăn dặm (4-24 tháng tuổi), thường là mẹ bỉm sữa lần đầu có con hoặc đã có kinh nghiệm nhưng muốn tiết kiệm thời gian chuẩn bị đồ ăn dặm.
 - Động cơ mua: Muốn xay nhuyễn thức ăn dặm nhanh, mịn, an toàn cho bé, không mất công dùng rây/cối truyền thống.
