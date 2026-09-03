@@ -21,7 +21,8 @@ updated: 2026-08-23
 - Sưởi ấm, làm nóng không gian, điều chỉnh nhiệt độ.
 - Công suất giả định 1500W, làm ấm trong 3-5 giây.
 - 2 chế độ sưởi (ấm/nóng), tỏa nhiệt góc rộng.
-- Tự ngắt khi quá nhiệt hoặc nghiêng đổ. - Thiết kế nhỏ gọn, phù hợp phòng 15-20m².
+- Tự ngắt khi quá nhiệt hoặc nghiêng đổ.
+- Thiết kế nhỏ gọn, phù hợp phòng 15-20m².
 
 **Lợi ích — Lý tính**
 - Làm ấm nhanh (3-5 giây), tiết kiệm thời gian.

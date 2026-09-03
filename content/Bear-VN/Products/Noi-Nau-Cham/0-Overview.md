@@ -15,6 +15,7 @@ updated: 2026-08-23
 - [[Bear-VN/Products/Noi-Nau-Cham/Noi-nau-chao-cham-Bear-1-6L-vuong-SB-NNC16|Nồi nấu cháo chậm Bear 1.6L vuông SB-NNC16]]
 - [[Bear-VN/Products/Noi-Nau-Cham/Noi-nau-cham-Bear-2L-SB-NNC20|Nồi nấu chậm Bear 2L SB-NNC20]]
 - [[Bear-VN/Products/Noi-Nau-Cham/Noi-nau-cham-Bear-2-5L-SUBE003|Nồi nấu chậm Bear 2.5L SUBE003]]
+
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 
 | Sản phẩm | Thông số | Trạng thái | Video |

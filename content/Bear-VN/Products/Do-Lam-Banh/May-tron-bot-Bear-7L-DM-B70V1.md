@@ -22,7 +22,8 @@ updated: 2026-08-23
 - Dung tích 7L, phù hợp 6-8 người.
 - Công suất 300W, 6 tốc độ trộn + chế độ nhồi.
 - Que đánh xoay 360 độ, trộn đều, không vón cục.
-- Thiết kế chống bắn, dễ vệ sinh. - Đế chống trượt, vận hành êm ái.
+- Thiết kế chống bắn, dễ vệ sinh.
+- Đế chống trượt, vận hành êm ái.
 
 **Lợi ích — Lý tính**
 - Trộn bột đều, mịn, tiết kiệm thời gian (nhào bột trong 5-10 phút).

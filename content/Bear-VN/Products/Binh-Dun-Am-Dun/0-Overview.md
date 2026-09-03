@@ -11,6 +11,7 @@ updated: 2026-08-23
 
 - [[Bear-VN/Products/Binh-Dun-Am-Dun/Binh-thuy-dien-Bear-5L-SB-BTD5L|Bình thuỷ điện Bear 5L SB-BTD5L]]
 - [[Bear-VN/Products/Binh-Dun-Am-Dun/Binh-pha-tra-giu-nhiet-Bear-SB-PT15K|Bình pha trà giữ nhiệt Bear SB-PT15K]]
+
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 
 | Sản phẩm | Thông số | Trạng thái | Video |

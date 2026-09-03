@@ -33,10 +33,17 @@ updated: 2026-08-23
 - Phù hợp cho gia đình nhỏ, người ăn kiêng.
 
 **Lợi ích — Cảm tính**
-- Cảm thấy khỏe mạnh, vui vẻ khi tự làm sữa chua tại nhà. - Hạnh phúc khi gia đình thưởng thức sữa chua sạch, bổ dưỡng. - Tự tin với thiết bị hiện đại, nhỏ gọn trong bếp. - Thư giãn vì vận hành tự động, không cần canh trông.
+- Cảm thấy khỏe mạnh, vui vẻ khi tự làm sữa chua tại nhà.
+- Hạnh phúc khi gia đình thưởng thức sữa chua sạch, bổ dưỡng.
+- Tự tin với thiết bị hiện đại, nhỏ gọn trong bếp.
+- Thư giãn vì vận hành tự động, không cần canh trông.
 
 **Hướng dẫn sử dụng**
-- Bước 1: Pha sữa chua (sữa tươi + men) theo tỷ lệ, đổ vào cối/hũ, đậy nắp. - Bước 2: Đặt cối/hũ vào máy, cắm điện (220V ~ 50Hz), chọn thời gian lên men (8-12 giờ) qua nút bấm. - Bước 3: Nhấn nút khởi động, chờ 8-12 giờ, máy tự ngắt, cho sữa chua vào tủ lạnh. - Lưu ý: Dùng sữa tươi không đường; vệ sinh cối/hũ trước và sau khi dùng; không mở nắp máy khi đang lên men. - Bảo quản: Rút phích cắm, bảo quản nơi khô ráo.
+- Bước 1: Pha sữa chua (sữa tươi + men) theo tỷ lệ, đổ vào cối/hũ, đậy nắp.
+- Bước 2: Đặt cối/hũ vào máy, cắm điện (220V ~ 50Hz), chọn thời gian lên men (8-12 giờ) qua nút bấm.
+- Bước 3: Nhấn nút khởi động, chờ 8-12 giờ, máy tự ngắt, cho sữa chua vào tủ lạnh.
+- Lưu ý: Dùng sữa tươi không đường; vệ sinh cối/hũ trước và sau khi dùng; không mở nắp máy khi đang lên men.
+- Bảo quản: Rút phích cắm, bảo quản nơi khô ráo.
 
 **Chính sách dịch vụ**
 - Bảo hành 18 tháng.

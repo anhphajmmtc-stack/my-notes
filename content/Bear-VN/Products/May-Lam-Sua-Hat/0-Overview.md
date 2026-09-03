@@ -11,6 +11,7 @@ updated: 2026-08-23
 
 - [[Bear-VN/Products/May-Lam-Sua-Hat/May-lam-sua-hat-Bear-1-2L-SB-SH12H|Máy làm sữa hạt Bear 1.2L SB-SH12H]]
 - [[Bear-VN/Products/May-Lam-Sua-Hat/May-lam-sua-hat-Bear-1L-SB-SH09Q|Máy làm sữa hạt Bear 1L SB-SH09Q]]
+
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 
 | Sản phẩm | Thông số | Trạng thái | Video |

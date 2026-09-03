@@ -19,7 +19,8 @@ updated: 2026-08-23
 
 **Tính năng**
 - Tích hợp 6 chế độ: nấu cháo, hầm canh, nấu súp, chưng yến, nấu chè, giữ ấm.
-- Hẹn giờ 12 tiếng. - Dẫn nhiệt nhanh, truyền nhiệt đều.
+- Hẹn giờ 12 tiếng.
+- Dẫn nhiệt nhanh, truyền nhiệt đều.
 - Dung tích 2.5L, phù hợp 4-6 người.
 - Bảng điều khiển tiếng Việt.
 

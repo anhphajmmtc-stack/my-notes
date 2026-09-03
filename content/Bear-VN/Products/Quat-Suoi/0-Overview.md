@@ -12,6 +12,7 @@ updated: 2026-08-23
 - [[Bear-VN/Products/Quat-Suoi/May-suoi-Bear-SH-4H20X|Máy sưởi Bear SH-4H20X]]
 - [[Bear-VN/Products/Quat-Suoi/May-suoi-Bear-DNQ-E04Q1|Máy sưởi Bear DNQ-E04Q1]]
 - [[Bear-VN/Products/Quat-Suoi/May-suoi-Bear-DNQ-P20Y5|Máy sưởi Bear DNQ-P20Y5]]
+
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 
 | Sản phẩm | Thông số | Trạng thái | Video |

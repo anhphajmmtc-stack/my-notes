@@ -42,7 +42,8 @@ updated: 2026-08-23
 - Bước 1: Đổ nước vào thân nồi đến vạch Max (không cần thêm nước nếu nấu trực tiếp).
 - Bước 2: Cho nguyên liệu vào lõi sứ, đặt lõi vào thân nồi, đậy kín nắp.
 - Bước 3: Chọn chế độ nấu (cháo, hầm, v.v.) qua bảng điều khiển, điều chỉnh thời gian bằng nút “<” hoặc “>”, nhấn “Hủy/Chức năng” để xác nhận.
-- Lưu ý: Kiểm tra điện áp phù hợp (220V); đặt nồi ngoài tầm với trẻ em; không dùng lực mạnh khi thao tác. - Bảo quản: Rút phích cắm, để nguội, vệ sinh và bảo quản nơi khô ráo.
+- Lưu ý: Kiểm tra điện áp phù hợp (220V); đặt nồi ngoài tầm với trẻ em; không dùng lực mạnh khi thao tác.
+- Bảo quản: Rút phích cắm, để nguội, vệ sinh và bảo quản nơi khô ráo.
 
 **Chính sách dịch vụ**
 - Bảo hành: 18 tháng, lỗi 1 đổi 1 trong 30 ngày (theo thông tin từ bearvietnam.vn).

@@ -18,6 +18,7 @@ updated: 2026-08-23
 - [[Bear-VN/Products/Bep-Noi/Noi-dien-da-nang-Bear-MC-4H16G|Nồi điện đa năng Bear MC-4H16G]]
 - [[Bear-VN/Products/Bep-Noi/Noi-dien-da-nang-Bear-MC-4H16H|Nồi điện đa năng Bear MC-4H16H]]
 - [[Bear-VN/Products/Bep-Noi/Noi-dien-da-nang-MC-4H16F|Nồi điện đa năng MC-4H16F]]
+
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 
 | Sản phẩm | Thông số | Trạng thái | Video |

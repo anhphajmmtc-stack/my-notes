@@ -13,6 +13,7 @@ updated: 2026-08-23
 - [[Bear-VN/Products/May-Xay-Ep/May-xay-thit-Bear-2L-SB-MA02L|Máy xay thịt Bear 2L SB-MA02L]]
 - [[Bear-VN/Products/May-Xay-Ep/May-xay-thit-Bear-CH-4H03F|Máy xay thịt Bear CH-4H03F]]
 - [[Bear-VN/Products/May-Xay-Ep/May-ep-cham-Bear-SJ-4H01T|Máy ép chậm Bear SJ-4H01T]]
+
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 
 | Sản phẩm | Thông số | Trạng thái | Video |
