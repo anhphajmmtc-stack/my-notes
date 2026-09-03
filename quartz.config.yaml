@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Be Vietnam Pro
+      body: Inter
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#fdf9f4"
+        lightgray: "#efe3d3"
+        gray: "#c9b8a0"
+        darkgray: "#5b4636"
+        dark: "#2e2115"
+        secondary: "#c1502e"
+        tertiary: "#e0a458"
+        highlight: rgba(193, 80, 46, 0.15)
+        textHighlight: "#ffe08880"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1c1712"
+        lightgray: "#3a2f24"
+        gray: "#8a7a68"
+        darkgray: "#e8ddd0"
+        dark: "#f5ede1"
+        secondary: "#e0824f"
+        tertiary: "#e0a458"
+        highlight: rgba(224, 130, 79, 0.15)
+        textHighlight: "#ffb74d80"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -149,6 +149,9 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      folderDefaultState: open
+      useSavedState: true
     layout:
       position: left
       priority: 50
