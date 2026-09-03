@@ -6,8 +6,6 @@ updated: 2026-08-23
 
 # Oidire
 
-Thương hiệu do SUBE Việt Nam phân phối tại VN — **không phải nhánh của Bear**, là 1 brand riêng.
-
 ## Sản phẩm còn hàng tồn (đang kinh doanh)
 
 Dữ liệu chi tiết từ "HỌC VIỆN OIDIRE - SUBE ACADEMY.xlsx" (23/08/2026) — chỉ nhập những sản phẩm còn hàng tồn/đang kinh doanh, không nhập sản phẩm đã hết tồn kho.

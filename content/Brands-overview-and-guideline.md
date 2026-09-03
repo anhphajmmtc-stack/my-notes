@@ -6,11 +6,11 @@ updated: 2026-08-22
 
 # Brands overview & guideline
 
-## Các thương hiệu con thuộc hệ thống [[SUBE-Viet-Nam]] đang phụ trách hình ảnh/video
+## Các thương hiệu con thuộc hệ thống [[SUBE-Viet-Nam]]
 
 ### [[Bear-VN]]
 - TikTok: https://www.tiktok.com/@bear.vietnam.official
-- Ngách: ẩm thực
+- Ngách:
 
 ### [[SUBE-Viet-Nam|SUBE VN (kênh)]]
 - TikTok: https://www.tiktok.com/@sube.vietnam
@@ -18,7 +18,7 @@ updated: 2026-08-22
 
 ### [[Bear-Me-Be]]
 - TikTok: https://www.tiktok.com/@bearmebe
-- Ngách: Lớp học tiền sản online, phong cách hài hước
+- Ngách: Lớp học tiền sản online
 
 ### [[Briteen]]
 - Nhãn hàng con mới
@@ -29,17 +29,6 @@ updated: 2026-08-22
 
 ### [[Oidire]]
 - Thương hiệu do SUBE phân phối
-
-## Guideline & tài liệu gốc
-Bảng tổng hợp guideline/tài liệu gốc của các thương hiệu con — cập nhật cột Liên kết và Yêu cầu khi có tài liệu mới, không cần tách bảng riêng trong từng note thương hiệu.
-
-| Thương hiệu | Nội dung | Liên kết | Yêu cầu |
-|---|---|---|---|
-| [[Bear-VN\|Bear]] | Bộ nhận diện thương hiệu thị trường Việt Nam | | |
-| [[Bear-Me-Be]] | Bộ nhận diện thương hiệu mẹ bé thị trường Việt Nam | [[Bear-Me-Be#Nhận diện thương hiệu\|Xem chi tiết]] · [[zz_Attachments/Guideline-BEAR-Me-Be.pdf\|PDF gốc]] | Mẹ & bé (Máy xay ăn dặm + máy tiệt trùng + máy hâm sữa) |
-| [[Briteen]] | | | |
-| [[SUBE-Viet-Nam\|SUBE]] | | | |
-| [[Oidire]] | | | |
 
 ## Liên kết
 - [[Business]]

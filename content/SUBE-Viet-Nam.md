@@ -6,8 +6,6 @@ updated: 2026-08-22
 
 # SUBE Việt Nam
 
-Công ty nơi [[About Me|Phạm Ngọc Anh]] đang giữ vai trò Leader Media, phân phối các thương hiệu con: [[Bear-VN]], [[Bear-Me-Be]], [[Briteen]].
-
 ## Định vị thương hiệu
 "SUBE – Nhà phân phối hàng đầu các thương hiệu gia dụng uy tín tại Việt Nam"
 
