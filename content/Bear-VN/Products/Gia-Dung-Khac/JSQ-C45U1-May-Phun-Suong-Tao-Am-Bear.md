@@ -1,4 +1,5 @@
 ---
+title: "JSQ-C45U1 Máy Phun Sương Tạo Ẩm Bear"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

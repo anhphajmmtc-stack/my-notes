@@ -1,4 +1,5 @@
 ---
+title: "SB-MA02L Máy xay thịt Bear 2L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

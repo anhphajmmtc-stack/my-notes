@@ -1,4 +1,5 @@
 ---
+title: "CH-4H03F Máy xay thịt Bear"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

@@ -1,4 +1,5 @@
 ---
+title: "BFM-045KN Máy xay nấu ăn dặm Bear (0.35L)"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

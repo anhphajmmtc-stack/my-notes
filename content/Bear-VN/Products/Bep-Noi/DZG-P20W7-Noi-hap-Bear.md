@@ -1,4 +1,5 @@
 ---
+title: "DZG-P20W7 Nồi hấp Bear"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

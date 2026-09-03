@@ -1,4 +1,5 @@
 ---
+title: "IR-4H15H Bàn là Bear"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

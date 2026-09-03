@@ -1,4 +1,5 @@
 ---
+title: "SB-SH12H Máy làm sữa hạt Bear 1.2L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

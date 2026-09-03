@@ -1,4 +1,5 @@
 ---
+title: "DRG-C12K1 Nồi lẩu mini Bear 1.2L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

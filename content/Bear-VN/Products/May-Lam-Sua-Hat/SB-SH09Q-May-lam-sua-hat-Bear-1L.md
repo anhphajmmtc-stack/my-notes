@@ -1,4 +1,5 @@
 ---
+title: "SB-SH09Q Máy làm sữa hạt Bear 1L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

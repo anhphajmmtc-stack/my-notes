@@ -1,4 +1,5 @@
 ---
+title: "SB-SC12C Máy làm sữa chua Bear 1L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

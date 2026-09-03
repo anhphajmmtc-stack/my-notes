@@ -1,4 +1,5 @@
 ---
+title: "SB-MTT20 Máy tiệt trùng Bear"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

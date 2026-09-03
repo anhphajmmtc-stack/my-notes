@@ -1,4 +1,5 @@
 ---
+title: "GR-4H15C Bếp nướng điện Bear"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

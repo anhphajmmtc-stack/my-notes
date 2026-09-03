@@ -1,4 +1,5 @@
 ---
+title: "CH-5H02D24 Máy xay ăn dặm Bear 0.3L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-09-03
 ---

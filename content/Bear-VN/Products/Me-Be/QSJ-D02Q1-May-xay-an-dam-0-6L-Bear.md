@@ -1,4 +1,5 @@
 ---
+title: "QSJ-D02Q1 Máy xay ăn dặm 0.6L Bear"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

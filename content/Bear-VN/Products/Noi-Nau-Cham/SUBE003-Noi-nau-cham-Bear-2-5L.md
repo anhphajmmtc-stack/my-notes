@@ -1,4 +1,5 @@
 ---
+title: "SUBE003 Nồi nấu chậm Bear 2.5L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

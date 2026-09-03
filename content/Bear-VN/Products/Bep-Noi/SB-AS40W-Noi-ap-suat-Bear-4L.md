@@ -1,4 +1,5 @@
 ---
+title: "SB-AS40W Nồi áp suất Bear 4L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

@@ -1,4 +1,5 @@
 ---
+title: "GR-B03V8 Máy xay ăn dặm Bear"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

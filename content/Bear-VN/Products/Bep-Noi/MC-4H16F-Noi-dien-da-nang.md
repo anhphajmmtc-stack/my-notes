@@ -1,4 +1,5 @@
 ---
+title: "MC-4H16F Nồi điện đa năng"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

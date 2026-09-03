@@ -1,4 +1,5 @@
 ---
+title: "DNQ-P20Y5 Máy sưởi Bear"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

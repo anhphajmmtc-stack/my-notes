@@ -1,4 +1,5 @@
 ---
+title: "SB-NNC15 Nồi nấu chậm Bear 1.5L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

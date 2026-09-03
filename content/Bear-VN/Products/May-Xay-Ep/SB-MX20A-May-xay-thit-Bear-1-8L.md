@@ -1,4 +1,5 @@
 ---
+title: "SB-MX20A Máy xay thịt Bear 1.8L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

@@ -1,4 +1,5 @@
 ---
+title: "GR-B06V1 Máy xay ăn dặm Bear 0.6L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

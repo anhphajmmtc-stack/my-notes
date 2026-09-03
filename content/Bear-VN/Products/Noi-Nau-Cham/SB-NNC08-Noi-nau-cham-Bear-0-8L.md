@@ -1,4 +1,5 @@
 ---
+title: "SB-NNC08 Nồi nấu chậm Bear 0.8L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

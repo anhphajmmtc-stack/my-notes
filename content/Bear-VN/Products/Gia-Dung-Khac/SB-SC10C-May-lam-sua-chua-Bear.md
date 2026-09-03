@@ -1,4 +1,5 @@
 ---
+title: "SB-SC10C Máy làm sữa chua Bear"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

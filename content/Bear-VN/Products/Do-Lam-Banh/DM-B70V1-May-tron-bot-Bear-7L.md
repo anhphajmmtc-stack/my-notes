@@ -1,4 +1,5 @@
 ---
+title: "DM-B70V1 Máy trộn bột Bear 7L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---

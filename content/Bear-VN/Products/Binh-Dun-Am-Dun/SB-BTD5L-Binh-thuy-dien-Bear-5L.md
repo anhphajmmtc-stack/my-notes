@@ -1,4 +1,5 @@
 ---
+title: "SB-BTD5L Bình thuỷ điện Bear 5L"
 tags: [context/brands/bear-vn/products]
 updated: 2026-08-23
 ---
