@@ -6,14 +6,14 @@ updated: 2026-08-23
 
 Danh mục sản phẩm Bear VN, dùng cho content chuyển đổi. Cập nhật theo file "Chỉ số Tiktok_ Hàng hóa_PL theo Loại SP" (23/08/2026) — phân loại theo đúng nhóm hàng hóa TikTok, gộp các phiên bản chỉ khác màu vào 1 mục, sản phẩm đã ngừng kinh doanh chuyển sang [[Bear-San-Pham-Ngung-Kinh-Doanh|Archive]]. Các sản phẩm mang thương hiệu Oidire (không phải Bear) đã tách sang [[Oidire]].
 
-**Tổng: 79 dòng sản phẩm đang kinh doanh (81 mã màu/SKU).** 37 dòng đã có phân tích chi tiết (đối tượng KH, cơ chế, lợi ích...); 42 dòng còn lại mới lấy từ danh sách hàng hóa, cần bổ sung phân tích chi tiết.
+**Tổng: 78 dòng sản phẩm đang kinh doanh (80 mã màu/SKU).** 38 dòng đã có phân tích chi tiết (đối tượng KH, cơ chế, lợi ích...); 40 dòng còn lại mới lấy từ danh sách hàng hóa, cần bổ sung phân tích chi tiết.
 
 ## Danh mục theo nhóm (TikTok)
 
 | Nhóm             | File                | Số dòng SP | Số SKU |
 | ---------------- | ------------------- | ---------- | ------ |
 | Bếp, nồi         | [[Bep-Noi/0-Overview|Bep-Noi]]         | 16         | 16     |
-| Mẹ & bé          | [[Me-Be/0-Overview|Me-Be]]           | 15         | 15     |
+| Mẹ & bé          | [[Me-Be/0-Overview|Me-Be]]           | 14         | 14     |
 | Nồi nấu chậm     | [[Noi-Nau-Cham/0-Overview|Noi-Nau-Cham]]    | 10         | 11     |
 | Máy xay, ép      | [[May-Xay-Ep/0-Overview|May-Xay-Ep]]      | 8          | 8      |
 | Bình đun, ấm đun | [[Binh-Dun-Am-Dun/0-Overview|Binh-Dun-Am-Dun]] | 8          | 8      |

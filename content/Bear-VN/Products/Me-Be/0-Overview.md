@@ -7,12 +7,13 @@ updated: 2026-08-23
 
 *Phân loại theo file "Chỉ số Tiktok_ Hàng hóa_PL theo Loại SP" (cập nhật 23/08/2026). Sản phẩm ngừng sản xuất/ngừng kinh doanh/hết tồn kho đã chuyển sang [[Bear-San-Pham-Ngung-Kinh-Doanh|Archive]]. Các phiên bản chỉ khác màu được gộp làm 1 mục.*
 
-## 15 dòng sản phẩm đang kinh doanh (15 mã màu/SKU)
+## 14 dòng sản phẩm đang kinh doanh (14 mã màu/SKU)
 
 - [[Bear-VN/Products/Me-Be/SB-MTT20-May-tiet-trung-Bear|Máy tiệt trùng Bear SB-MTT20]]
 - [[Bear-VN/Products/Me-Be/GR-B03V8-May-xay-an-dam-Bear|Máy xay ăn dặm Bear GR-B03V8]]
 - [[Bear-VN/Products/Me-Be/GR-B06V1-May-xay-an-dam-Bear-0-6L|Máy xay ăn dặm Bear 0.6L GR-B06V1]]
 - [[Bear-VN/Products/Me-Be/QSJ-D02Q1-May-xay-an-dam-0-6L-Bear|Máy xay ăn dặm 0.6L Bear QSJ-D02Q1]]
+- [[Bear-VN/Products/Me-Be/CH-5H02D24-May-xay-an-dam-Bear-0-3L|Máy xay ăn dặm Bear 0.3L CH-5H02D24]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 
@@ -27,8 +28,6 @@ updated: 2026-08-23
 
 | Sản phẩm | Thông số | Trạng thái | Video |
 |---|---|---|---|
-| Máy xay ăn dặm 0.3L Bear CH-5H02D24 | Dung tích: 0.3L; Công suất:  200W; Quy cách: 12 pcs/ kiện | Đang KD | [Link](https://youtu.be/vK3AIhA7J9Y) |
-| Máy xay ăn dặm 0.3L Bear CH-5H02D24 | Dung tích: 0.3L; Công suất: 200W; Quy cách: 12psc/ kiện | Đang KD | [Link](https://youtu.be/vK3AIhA7J9Y) |
 | Máy xay ăn dặm Bear 0.3l - Màu kem - Tiếng anh CH-4H02S | Dung tích: 0.3L; Công suất: 200W; Quy cách: | Đang KD | [Link](https://www.youtube.com/watch?v=Y7yfwci3nDM&t=31s) |
 | Máy xay ăn dặm thông minh 0.3L Bear - Màu trắng xám BFM-025JM | Điện áp, công suất: 220V~ 50Hz, 200W; Dung tích: 0.3L; Chất liệu: lưỡi dao SUS316, trục dao SUS304 | Đang KD |  |
 | Máy đun nước hâm sữa tiệt trùng WW-5H12V78 | Dung tích: 1.3L; Công suất sấy 500W; Công suất đun: 800W; Quy cách: pcs/ kiện | Đang KD | [Link](https://youtu.be/_KF2ehZWzRI) |
