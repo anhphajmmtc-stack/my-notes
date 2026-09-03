@@ -9,12 +9,12 @@ updated: 2026-08-23
 
 ## 10 dòng sản phẩm đang kinh doanh (11 mã màu/SKU)
 
-- [[Bear-VN/Products/Noi-Nau-Cham/Noi-nau-cham-Bear-0-8L-SB-NNC08|Nồi nấu chậm Bear 0.8L SB-NNC08]]
-- [[Bear-VN/Products/Noi-Nau-Cham/Noi-nau-cham-Bear-0-8L-SUBE001|Nồi nấu chậm Bear 0.8L SUBE001]]
-- [[Bear-VN/Products/Noi-Nau-Cham/Noi-nau-cham-Bear-1-5L-SB-NNC15|Nồi nấu chậm Bear 1.5L SB-NNC15]]
-- [[Bear-VN/Products/Noi-Nau-Cham/Noi-nau-chao-cham-Bear-1-6L-vuong-SB-NNC16|Nồi nấu cháo chậm Bear 1.6L vuông SB-NNC16]]
-- [[Bear-VN/Products/Noi-Nau-Cham/Noi-nau-cham-Bear-2L-SB-NNC20|Nồi nấu chậm Bear 2L SB-NNC20]]
-- [[Bear-VN/Products/Noi-Nau-Cham/Noi-nau-cham-Bear-2-5L-SUBE003|Nồi nấu chậm Bear 2.5L SUBE003]]
+- [[Bear-VN/Products/Noi-Nau-Cham/SB-NNC08-Noi-nau-cham-Bear-0-8L|Nồi nấu chậm Bear 0.8L SB-NNC08]]
+- [[Bear-VN/Products/Noi-Nau-Cham/SUBE001-Noi-nau-cham-Bear-0-8L|Nồi nấu chậm Bear 0.8L SUBE001]]
+- [[Bear-VN/Products/Noi-Nau-Cham/SB-NNC15-Noi-nau-cham-Bear-1-5L|Nồi nấu chậm Bear 1.5L SB-NNC15]]
+- [[Bear-VN/Products/Noi-Nau-Cham/SB-NNC16-Noi-nau-chao-cham-Bear-1-6L-vuong|Nồi nấu cháo chậm Bear 1.6L vuông SB-NNC16]]
+- [[Bear-VN/Products/Noi-Nau-Cham/SB-NNC20-Noi-nau-cham-Bear-2L|Nồi nấu chậm Bear 2L SB-NNC20]]
+- [[Bear-VN/Products/Noi-Nau-Cham/SUBE003-Noi-nau-cham-Bear-2-5L|Nồi nấu chậm Bear 2.5L SUBE003]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 

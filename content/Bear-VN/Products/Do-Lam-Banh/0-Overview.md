@@ -9,7 +9,7 @@ updated: 2026-08-23
 
 ## 4 dòng sản phẩm đang kinh doanh (4 mã màu/SKU)
 
-- [[Bear-VN/Products/Do-Lam-Banh/May-tron-bot-Bear-7L-DM-B70V1|Máy trộn bột Bear 7L DM-B70V1]]
+- [[Bear-VN/Products/Do-Lam-Banh/DM-B70V1-May-tron-bot-Bear-7L|Máy trộn bột Bear 7L DM-B70V1]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 

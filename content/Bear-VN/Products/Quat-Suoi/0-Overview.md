@@ -9,9 +9,9 @@ updated: 2026-08-23
 
 ## 4 dòng sản phẩm đang kinh doanh (4 mã màu/SKU)
 
-- [[Bear-VN/Products/Quat-Suoi/May-suoi-Bear-SH-4H20X|Máy sưởi Bear SH-4H20X]]
-- [[Bear-VN/Products/Quat-Suoi/May-suoi-Bear-DNQ-E04Q1|Máy sưởi Bear DNQ-E04Q1]]
-- [[Bear-VN/Products/Quat-Suoi/May-suoi-Bear-DNQ-P20Y5|Máy sưởi Bear DNQ-P20Y5]]
+- [[Bear-VN/Products/Quat-Suoi/SH-4H20X-May-suoi-Bear|Máy sưởi Bear SH-4H20X]]
+- [[Bear-VN/Products/Quat-Suoi/DNQ-E04Q1-May-suoi-Bear|Máy sưởi Bear DNQ-E04Q1]]
+- [[Bear-VN/Products/Quat-Suoi/DNQ-P20Y5-May-suoi-Bear|Máy sưởi Bear DNQ-P20Y5]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 

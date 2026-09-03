@@ -9,11 +9,11 @@ updated: 2026-08-23
 
 ## 6 dòng sản phẩm đang kinh doanh (6 mã màu/SKU)
 
-- [[Bear-VN/Products/Gia-Dung-Khac/Ban-la-Bear-IR-4H15H|Bàn là Bear IR-4H15H]]
-- [[Bear-VN/Products/Gia-Dung-Khac/May-lam-sua-chua-Bear-SB-SC10C|Máy làm sữa chua Bear SB-SC10C]]
-- [[Bear-VN/Products/Gia-Dung-Khac/May-lam-sua-chua-Bear-1L-SB-SC12C|Máy làm sữa chua Bear 1L SB-SC12C]]
-- [[Bear-VN/Products/Gia-Dung-Khac/May-Phun-Suong-Tao-Am-Bear-JSQ-C45U1|Máy Phun Sương Tạo Ẩm Bear JSQ-C45U1]]
-- [[Bear-VN/Products/Gia-Dung-Khac/May-phun-suong-Bear-SB-TA50M|Máy phun sương Bear SB-TA50M]]
+- [[Bear-VN/Products/Gia-Dung-Khac/IR-4H15H-Ban-la-Bear|Bàn là Bear IR-4H15H]]
+- [[Bear-VN/Products/Gia-Dung-Khac/SB-SC10C-May-lam-sua-chua-Bear|Máy làm sữa chua Bear SB-SC10C]]
+- [[Bear-VN/Products/Gia-Dung-Khac/SB-SC12C-May-lam-sua-chua-Bear-1L|Máy làm sữa chua Bear 1L SB-SC12C]]
+- [[Bear-VN/Products/Gia-Dung-Khac/JSQ-C45U1-May-Phun-Suong-Tao-Am-Bear|Máy Phun Sương Tạo Ẩm Bear JSQ-C45U1]]
+- [[Bear-VN/Products/Gia-Dung-Khac/SB-TA50M-May-phun-suong-Bear|Máy phun sương Bear SB-TA50M]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 

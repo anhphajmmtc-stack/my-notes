@@ -9,10 +9,10 @@ updated: 2026-08-23
 
 ## 8 dòng sản phẩm đang kinh doanh (8 mã màu/SKU)
 
-- [[Bear-VN/Products/May-Xay-Ep/May-xay-thit-Bear-1-8L-SB-MX20A|Máy xay thịt Bear 1.8L SB-MX20A]]
-- [[Bear-VN/Products/May-Xay-Ep/May-xay-thit-Bear-2L-SB-MA02L|Máy xay thịt Bear 2L SB-MA02L]]
-- [[Bear-VN/Products/May-Xay-Ep/May-xay-thit-Bear-CH-4H03F|Máy xay thịt Bear CH-4H03F]]
-- [[Bear-VN/Products/May-Xay-Ep/May-ep-cham-Bear-SJ-4H01T|Máy ép chậm Bear SJ-4H01T]]
+- [[Bear-VN/Products/May-Xay-Ep/SB-MX20A-May-xay-thit-Bear-1-8L|Máy xay thịt Bear 1.8L SB-MX20A]]
+- [[Bear-VN/Products/May-Xay-Ep/SB-MA02L-May-xay-thit-Bear-2L|Máy xay thịt Bear 2L SB-MA02L]]
+- [[Bear-VN/Products/May-Xay-Ep/CH-4H03F-May-xay-thit-Bear|Máy xay thịt Bear CH-4H03F]]
+- [[Bear-VN/Products/May-Xay-Ep/SJ-4H01T-May-ep-cham-Bear|Máy ép chậm Bear SJ-4H01T]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 

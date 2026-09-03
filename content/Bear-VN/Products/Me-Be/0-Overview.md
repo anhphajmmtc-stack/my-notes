@@ -9,10 +9,10 @@ updated: 2026-08-23
 
 ## 15 dòng sản phẩm đang kinh doanh (15 mã màu/SKU)
 
-- [[Bear-VN/Products/Me-Be/May-tiet-trung-Bear-SB-MTT20|Máy tiệt trùng Bear SB-MTT20]]
-- [[Bear-VN/Products/Me-Be/May-xay-an-dam-Bear-GR-B03V8|Máy xay ăn dặm Bear GR-B03V8]]
-- [[Bear-VN/Products/Me-Be/May-xay-an-dam-Bear-0-6L-GR-B06V1|Máy xay ăn dặm Bear 0.6L GR-B06V1]]
-- [[Bear-VN/Products/Me-Be/May-xay-an-dam-0-6L-Bear-QSJ-D02Q1|Máy xay ăn dặm 0.6L Bear QSJ-D02Q1]]
+- [[Bear-VN/Products/Me-Be/SB-MTT20-May-tiet-trung-Bear|Máy tiệt trùng Bear SB-MTT20]]
+- [[Bear-VN/Products/Me-Be/GR-B03V8-May-xay-an-dam-Bear|Máy xay ăn dặm Bear GR-B03V8]]
+- [[Bear-VN/Products/Me-Be/GR-B06V1-May-xay-an-dam-Bear-0-6L|Máy xay ăn dặm Bear 0.6L GR-B06V1]]
+- [[Bear-VN/Products/Me-Be/QSJ-D02Q1-May-xay-an-dam-0-6L-Bear|Máy xay ăn dặm 0.6L Bear QSJ-D02Q1]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 
@@ -21,7 +21,7 @@ updated: 2026-08-23
 | Bình đun và hâm nước pha sữa di động mini 0.5L Bear BKL-055EJ | Điện áp: 220V; Tần số" 50Hz; Công suất: 100W; Dung tích: 0.5L | Đang KD |  |
 | Máy tiệt trùng Bear ST-5H05E26 | Công suất: Khử trùng: 700W / Sấy khô: 218W; Quy cách: 2pcs/ kiện | Đang KD | [Link](https://youtu.be/dRVRKm1L5tM) |
 
-- [[Bear-VN/Products/Me-Be/May-xay-nau-an-dam-Bear-BFM-045KN-0-35L|Máy xay nấu ăn dặm Bear BFM-045KN (0.35L)]]
+- [[Bear-VN/Products/Me-Be/BFM-045KN-May-xay-nau-an-dam-Bear-0-35L|Máy xay nấu ăn dặm Bear BFM-045KN (0.35L)]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 

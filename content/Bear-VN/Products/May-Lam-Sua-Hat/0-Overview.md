@@ -9,8 +9,8 @@ updated: 2026-08-23
 
 ## 3 dòng sản phẩm đang kinh doanh (3 mã màu/SKU)
 
-- [[Bear-VN/Products/May-Lam-Sua-Hat/May-lam-sua-hat-Bear-1-2L-SB-SH12H|Máy làm sữa hạt Bear 1.2L SB-SH12H]]
-- [[Bear-VN/Products/May-Lam-Sua-Hat/May-lam-sua-hat-Bear-1L-SB-SH09Q|Máy làm sữa hạt Bear 1L SB-SH09Q]]
+- [[Bear-VN/Products/May-Lam-Sua-Hat/SB-SH12H-May-lam-sua-hat-Bear-1-2L|Máy làm sữa hạt Bear 1.2L SB-SH12H]]
+- [[Bear-VN/Products/May-Lam-Sua-Hat/SB-SH09Q-May-lam-sua-hat-Bear-1L|Máy làm sữa hạt Bear 1L SB-SH09Q]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 

@@ -9,15 +9,15 @@ updated: 2026-08-23
 
 ## 16 dòng sản phẩm đang kinh doanh (16 mã màu/SKU)
 
-- [[Bear-VN/Products/Bep-Noi/Bep-nuong-dien-Bear-GR-4H15C|Bếp nướng điện Bear GR-4H15C]]
-- [[Bear-VN/Products/Bep-Noi/Noi-hap-Bear-SB-NH12L|Nồi hấp Bear SB-NH12L]]
-- [[Bear-VN/Products/Bep-Noi/Noi-hap-Bear-DZG-P20W7|Nồi hấp Bear DZG-P20W7]]
-- [[Bear-VN/Products/Bep-Noi/Noi-lau-nuong-da-nang-Bear-SB-NL45K-dung-tich-4-5L|Nồi lẩu nướng đa năng Bear SB-NL45K, dung tích 4.5L]]
-- [[Bear-VN/Products/Bep-Noi/Noi-lau-mini-Bear-1-2L-DRG-C12K1|Nồi lẩu mini Bear 1.2L DRG-C12K1]]
-- [[Bear-VN/Products/Bep-Noi/Noi-ap-suat-Bear-4L-SB-AS40W|Nồi áp suất Bear 4L SB-AS40W]]
-- [[Bear-VN/Products/Bep-Noi/Noi-dien-da-nang-Bear-MC-4H16G|Nồi điện đa năng Bear MC-4H16G]]
-- [[Bear-VN/Products/Bep-Noi/Noi-dien-da-nang-Bear-MC-4H16H|Nồi điện đa năng Bear MC-4H16H]]
-- [[Bear-VN/Products/Bep-Noi/Noi-dien-da-nang-MC-4H16F|Nồi điện đa năng MC-4H16F]]
+- [[Bear-VN/Products/Bep-Noi/GR-4H15C-Bep-nuong-dien-Bear|Bếp nướng điện Bear GR-4H15C]]
+- [[Bear-VN/Products/Bep-Noi/SB-NH12L-Noi-hap-Bear|Nồi hấp Bear SB-NH12L]]
+- [[Bear-VN/Products/Bep-Noi/DZG-P20W7-Noi-hap-Bear|Nồi hấp Bear DZG-P20W7]]
+- [[Bear-VN/Products/Bep-Noi/SB-NL45K-Noi-lau-nuong-da-nang-Bear-dung-tich-4-5L|Nồi lẩu nướng đa năng Bear SB-NL45K, dung tích 4.5L]]
+- [[Bear-VN/Products/Bep-Noi/DRG-C12K1-Noi-lau-mini-Bear-1-2L|Nồi lẩu mini Bear 1.2L DRG-C12K1]]
+- [[Bear-VN/Products/Bep-Noi/SB-AS40W-Noi-ap-suat-Bear-4L|Nồi áp suất Bear 4L SB-AS40W]]
+- [[Bear-VN/Products/Bep-Noi/MC-4H16G-Noi-dien-da-nang-Bear|Nồi điện đa năng Bear MC-4H16G]]
+- [[Bear-VN/Products/Bep-Noi/MC-4H16H-Noi-dien-da-nang-Bear|Nồi điện đa năng Bear MC-4H16H]]
+- [[Bear-VN/Products/Bep-Noi/MC-4H16F-Noi-dien-da-nang|Nồi điện đa năng MC-4H16F]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 

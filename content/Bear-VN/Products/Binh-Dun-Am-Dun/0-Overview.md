@@ -9,8 +9,8 @@ updated: 2026-08-23
 
 ## 8 dòng sản phẩm đang kinh doanh (8 mã màu/SKU)
 
-- [[Bear-VN/Products/Binh-Dun-Am-Dun/Binh-thuy-dien-Bear-5L-SB-BTD5L|Bình thuỷ điện Bear 5L SB-BTD5L]]
-- [[Bear-VN/Products/Binh-Dun-Am-Dun/Binh-pha-tra-giu-nhiet-Bear-SB-PT15K|Bình pha trà giữ nhiệt Bear SB-PT15K]]
+- [[Bear-VN/Products/Binh-Dun-Am-Dun/SB-BTD5L-Binh-thuy-dien-Bear-5L|Bình thuỷ điện Bear 5L SB-BTD5L]]
+- [[Bear-VN/Products/Binh-Dun-Am-Dun/SB-PT15K-Binh-pha-tra-giu-nhiet-Bear|Bình pha trà giữ nhiệt Bear SB-PT15K]]
 
 **Sản phẩm khác (chưa có phân tích chi tiết):**
 
